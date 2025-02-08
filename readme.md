@@ -48,8 +48,8 @@ Defines the styles for the web page, including:
 Handles the functionality of the dictionary app with key functions:
 
 - `emptyCard()`: Clears the result card content.
-- `Apiresponse(word)`: Fetches word details from the Dictionary API.
-- `parseInHtml(convertIntoJson)`: Parses the API response and displays the word details on the page.
+- `Apiresponse()`: Fetches word details from the Dictionary API.
+- `parseInHtml()`: Parses the API response and displays the word details on the page.
 
 ## 📜 License
 
